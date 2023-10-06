@@ -71,13 +71,13 @@
 
 @media(max-width:764px){
     html{
-        font-size: 60%;
+        font-size: 80%;
     }
 }
 
 @media(max-width:450px){
     html{
-        font-size: 50%;
+        font-size: 70%;
     }
 }
 
